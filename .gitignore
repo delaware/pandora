@@ -7,7 +7,6 @@ build/
 
 ### JAVA - FILES
 *.class
-*.jar
 *.war
 *.ear
 
