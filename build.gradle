@@ -22,4 +22,4 @@ dependencies {
     testCompile "junit:junit:4.11"
 }
 
-mainClassName = 'Main'
+mainClassName = 'Pandora'

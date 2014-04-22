@@ -28,6 +28,7 @@ public class ImagePanel extends JPanel {
 
         for(int index = 0; index<buttons.length; index++) {
             add(buttons[index] = new JButton());
+            buttons[index].setOpaque(true);
             if(!borders) {
                 buttons[index].setBorder(null);
             }
